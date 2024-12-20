@@ -20,14 +20,8 @@
 [twitter]: https://x.com/MB_4_IT
 [youtube]: https://www.youtube.com/@MarcusBarnett84
 [instagram]: https://www.instagram.com/mb4it/
-[linkedin]: https://www.linkedin.com/in/mbarnett4it/ 
--
-
-
-
-
-
-
+[linkedin]: https://www.linkedin.com/in/mbarnett4it/
+<-
 - 🔭 I’m currently working on getting my CompTIA A+ Certification
 - 🌱 I’m currently learning cloud and SCCM
 - 🤔 I’m looking for help with free tech courses/programs with resources to help others trying to get their tech careers in order
