@@ -23,9 +23,9 @@
 [linkedin]: https://www.linkedin.com/in/mbarnett4it/
 -
 - 🔭 I’m currently working on getting my CompTIA A+ Certification
-- 🌱 I’m currently learning cloud and SCCM
+- 🌱 I’m currently learning Cloud and SCCM
 - 🤔 I’m looking for help with free tech courses/programs with resources to help others trying to get their tech careers in order
 - 💬 Ask me about my content or resources
-- 📫 How to reach me: ...
+- 📫 How to reach me: mbarnettp@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm also big on gardening :)
